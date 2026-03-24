@@ -1,0 +1,18 @@
+[submodule "agents/rag-engine"]
+	path = agents/rag-engine
+	url = https://github.com/AniruddhaPKawarase/agentic-rag-engine.git
+[submodule "agents/sql-engine"]
+	path = agents/sql-engine
+	url = https://github.com/AniruddhaPKawarase/agentic-sql-engine.git
+[submodule "agents/doc-generator"]
+	path = agents/doc-generator
+	url = https://github.com/AniruddhaPKawarase/agentic-doc-generator.git
+[submodule "agents/ingestion"]
+	path = agents/ingestion
+	url = https://github.com/AniruddhaPKawarase/agentic-ingestion-pipeline.git
+[submodule "agents/doc-qa"]
+	path = agents/doc-qa
+	url = https://github.com/AniruddhaPKawarase/agentic-doc-qa.git
+[submodule "agents/gateway"]
+	path = agents/gateway
+	url = https://github.com/AniruddhaPKawarase/agentic-gateway.git
