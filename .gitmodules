@@ -16,3 +16,6 @@
 [submodule "agents/gateway"]
 	path = agents/gateway
 	url = https://github.com/AniruddhaPKawarase/agentic-gateway.git
+[submodule "agents/vision-ocr"]
+	path = agents/vision-ocr
+	url = https://github.com/AniruddhaPKawarase/agentic-vision-ocr.git
