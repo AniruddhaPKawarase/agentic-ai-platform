@@ -19,3 +19,9 @@
 [submodule "agents/vision-ocr"]
 	path = agents/vision-ocr
 	url = https://github.com/AniruddhaPKawarase/agentic-vision-ocr.git
+[submodule "agents/construction-knowledge-graph"]
+	path = agents/construction-knowledge-graph
+	url = https://github.com/AniruddhaPKawarase/agentic-construction-knowledge-graph.git
+[submodule "agents/review-pipeline"]
+	path = agents/review-pipeline
+	url = https://github.com/AniruddhaPKawarase/agentic-review-pipeline.git
