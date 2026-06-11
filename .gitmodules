@@ -25,3 +25,6 @@
 [submodule "agents/review-pipeline"]
 	path = agents/review-pipeline
 	url = https://github.com/AniruddhaPKawarase/agentic-review-pipeline.git
+[submodule "agents/ai-engine"]
+	path = agents/ai-engine
+	url = https://github.com/AniruddhaPKawarase/agentic-ai-engine.git
